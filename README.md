@@ -7,6 +7,13 @@
 ### Abohoman Section
 ![image](https://user-images.githubusercontent.com/62868878/117338081-c6a8ca00-aebb-11eb-9f48-0ad0a42acf28.png)
 
+### Prayukti Section
+![image](https://user-images.githubusercontent.com/62868878/117338291-066fb180-aebc-11eb-8d78-66bad47ed1ef.png)
+
+### Gallery Section
+![image](https://user-images.githubusercontent.com/62868878/117338553-59496900-aebc-11eb-967a-f77b44cfaed4.png)
+
+
 | Name of Script | YouTube Link |  Author | Tools Used |
 | --- | --- | --- | --- 
 |Ingenium-Website| [Click Here]() | [Priyadarshan Ghosh](https://github.com/Priyadarshan2000)| React,CSS,HTML
