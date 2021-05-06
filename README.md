@@ -1,4 +1,11 @@
+### HOME Section
+![image](https://user-images.githubusercontent.com/62868878/117337937-9bbe7600-aebb-11eb-94b7-87bf6e2572c4.png)
 
+### EDITORIAL Section
+![image](https://user-images.githubusercontent.com/62868878/117337982-ab3dbf00-aebb-11eb-9aa4-5aad070a212a.png)
+
+### Abohoman Section
+![image](https://user-images.githubusercontent.com/62868878/117338081-c6a8ca00-aebb-11eb-9f48-0ad0a42acf28.png)
 
 | Name of Script | YouTube Link |  Author | Tools Used |
 | --- | --- | --- | --- 
