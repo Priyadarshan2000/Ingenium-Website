@@ -13,6 +13,9 @@
 ### Gallery Section
 ![image](https://user-images.githubusercontent.com/62868878/117338553-59496900-aebc-11eb-967a-f77b44cfaed4.png)
 
+### Footer Section
+![image](https://user-images.githubusercontent.com/62868878/117338926-c3620e00-aebc-11eb-8a5b-929892c2303a.png)
+
 
 | Name of Script | YouTube Link |  Author | Tools Used |
 | --- | --- | --- | --- 
