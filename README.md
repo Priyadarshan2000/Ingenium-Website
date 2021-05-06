@@ -19,6 +19,8 @@
 ### Subscribe Section
 ![image](https://user-images.githubusercontent.com/62868878/117339113-fefcd800-aebc-11eb-99df-07a4a399b50a.png)
 
+### Responsive 
+![image](https://user-images.githubusercontent.com/62868878/117346318-396a7300-aec5-11eb-81f2-a8ad102aecb6.png)
 
 ### DEMO
 
