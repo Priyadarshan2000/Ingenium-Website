@@ -25,7 +25,7 @@
 ### DEMO
 ![20210506_234243](https://user-images.githubusercontent.com/62868878/117346435-5b63f580-aec5-11eb-8abf-533abb9267df.gif)
 
-------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------
 
 Click on the **Click Here** to see the Ingenium Website Demo on YouTube.
 | Name of Script | YouTube Link |  Author | Tools Used |
